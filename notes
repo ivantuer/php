@@ -1,0 +1,4 @@
+php -S localhost:8888
+
+var_dump()
+echo
